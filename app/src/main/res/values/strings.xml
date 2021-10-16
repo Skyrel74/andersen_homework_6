@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Andersen_Homework_6</string>
+    <string name="contact_item">Contact name and surname\nPhone number</string>
+    <string name="button_save_label">Сохранить</string>
+</resources>
